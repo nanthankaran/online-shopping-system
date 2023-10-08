@@ -1,6 +1,7 @@
 
 
 ![Screenshot of the project](https://github.com/nanthankaran/online-shopping-system/blob/master/Screenshot%202023-10-08%20154349.png)
+![Screenshot of the project](https://github.com/nanthankaran/online-shopping-system/blob/master/Screenshot%202023-10-08%20154359.png)
 This is an online shopping system project developed using PHP and MySQL. The project includes the following features:
 
 Product catalog
